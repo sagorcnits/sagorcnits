@@ -1,5 +1,8 @@
 ### Hi there 👋, Hello, I'm Sagor Hossain
 #### I am a Frontend Developer With React JS
+
+![cover-Photo](https://github.com/sagorcnits/sagorcnits/assets/130352065/91c3b82e-cd99-47e7-843f-8c775201ff64)
+
 I am a Frontend Developer. I can develop any website using React JS. your website 100% RESPONSIVE & Mobile frendly.
 My HTML,CSS,Bootstrap,Tailwind CSS,JS, git and GitHub, & React JS Framework Coding Skill Very Strong i have  acquired fame.
 I give my best service my client or company. Company satisfaction is my main goal.
