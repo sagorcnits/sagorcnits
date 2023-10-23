@@ -1,6 +1,7 @@
 ###
 
-![cover-Photo](https://github.com/sagorcnits/sagorcnits/assets/130352065/91c3b82e-cd99-47e7-843f-8c775201ff64)
+
+![Creative Modern Business Card (3)](https://github.com/sagorcnits/sagorcnits/assets/130352065/423263b7-1487-41fb-83b0-d3198d133771)
 
 Hi there 👋, Hello, I'm Sagor Hossain
 #### I am a Frontend Developer With React JS
