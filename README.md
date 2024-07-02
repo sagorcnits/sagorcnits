@@ -5,17 +5,14 @@
 
 
 Hi there 👋, Hello, I'm Sagor Hossain
-#### I am a Frontend Developer With React JS
-I am a Frontend Developer. I can develop any website using React JS. your website 100% RESPONSIVE & Mobile frendly.
-My HTML,CSS,Bootstrap,Tailwind CSS,JS, git and GitHub, & React JS Framework Coding Skill Very Strong i have  acquired fame.
-I give my best service my client or company. Company satisfaction is my main goal.
+#### I am a Junior Web Developer.
+My name is Sagor Hossain. I am a professional and enthusiastic programmer in my daily life.
+I'm a passionate MERN stack developer with a strong background in creating dynamic and efficient web applications.
+My core skill is based on JavaScript and I love to do most of the things using JavaScript. 
+I am available for any kind of job opportunity that suits my skills and interests.
 
-Skills: HTML/CSS/Bootstrap/Tailwind/JS/React
 
-- 🔭 I’m currently working on Upwork,Freelancer 
-- 🌱 I’m currently learning Node.JS 
-- 💬 Ask me about  Vanila JavaScript,React 
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sagorcnits) 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sagorcnits)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/op-sagor-3aba90297//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100075240488312)  
 
@@ -28,6 +25,6 @@ Skills: HTML/CSS/Bootstrap/Tailwind/JS/React
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagorcnits&show_icons=true)  
  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sagorcnits)  
+ 
 
 
