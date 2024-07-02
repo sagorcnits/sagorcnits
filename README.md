@@ -27,10 +27,9 @@ Skills: HTML/CSS/Bootstrap/Tailwind/JS/React
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagorcnits&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sagorcnits)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sagorcnits)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sagorcnits)  
 
-![Profile views](https://gpvc.arturio.dev/sagorcnits)  
+
