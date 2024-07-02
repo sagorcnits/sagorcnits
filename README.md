@@ -19,7 +19,7 @@ I am available for any kind of job opportunity that suits my skills and interest
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagor.official.pb@gmail.com)
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sagorcnits&theme=youtube-dark&hide_border=true) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sagorcnits&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🛠 My Skills
 <div>
@@ -38,11 +38,11 @@ I am available for any kind of job opportunity that suits my skills and interest
 
 ## 🛠 Most using language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagorcnits&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagorcnits&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 My Github Stats
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagorcnits&show_icons=true)  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagorcnits&show_icons=true&theme=radical)  
  
 
 
