@@ -11,6 +11,7 @@ I'm a passionate MERN stack developer with a strong background in creating dynam
 My core skill is based on JavaScript and I love to do most of the things using JavaScript. 
 I am available for any kind of job opportunity that suits my skills and interests.
 
+#### My skills 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sagorcnits) 
 
