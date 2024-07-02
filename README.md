@@ -44,6 +44,9 @@ I am available for any kind of job opportunity that suits my skills and interest
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagorcnits&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+![](https://komarev.com/ghpvc/?username=sagorcnits&color=brightgreen)
+
 
  
 
