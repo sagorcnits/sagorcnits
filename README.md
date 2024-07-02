@@ -22,6 +22,7 @@ I am available for any kind of job opportunity that suits my skills and interest
 [![GitHub Streak](https://streak-stats.demolab.com?user=sagorcnits&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 ## 🛠 My Skills
+
 <div>
  <img src="https://i.ibb.co/T4Fh5sL/html.webp" alt="html" width="50"/>
  <img src="https://i.ibb.co/RQWDpK5/css.webp" alt="css" width="50"/>
@@ -35,14 +36,15 @@ I am available for any kind of job opportunity that suits my skills and interest
  <img src="https://i.ibb.co/px8zZrT/mongoDB.webp" alt="mongoDB" width="50"/>
 </div>
 
+## 🛠 My Github Stats
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagorcnits&show_icons=true&theme=radical)  
 
 ## 🛠 Most using language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagorcnits&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🛠 My Github Stats
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagorcnits&show_icons=true&theme=radical)  
  
 
 
