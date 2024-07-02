@@ -16,7 +16,16 @@ I am available for any kind of job opportunity that suits my skills and interest
 
 ## 🛠 My Skills
 <div>
+ <img src="https://i.ibb.co/T4Fh5sL/html.webp" alt="html" width="50"/>
+ <img src="https://i.ibb.co/RQWDpK5/css.webp" alt="css" width="50"/>
  <img src="https://i.ibb.co/KjCd9Q8/bootstrap.webp" alt="bootstrap" width="50"/>
+ <img src="https://i.ibb.co/fCF2gZ9/tailwind.webp" alt="tailwind" width="50"/>
+ <img src="https://i.ibb.co/PtdHFDv/javascript.jpg" alt="js" width="50"/>
+ <img src="https://i.ibb.co/cDJSJZW/react.webp" alt="react" width="50"/>
+ <img src="https://i.ibb.co/hf6dzts/next-js.webp" alt="next js" width="50"/>
+ <img src="https://i.ibb.co/rmB62Cq/node.webp" alt="node js" width="50"/>
+ <img src="https://i.ibb.co/V93cZSN/express.webp" alt="express" width="50"/>
+ <img src="https://i.ibb.co/px8zZrT/mongoDB.webp" alt="mongoDB" width="50"/>
 </div>
 
 
