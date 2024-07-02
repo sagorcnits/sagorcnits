@@ -28,10 +28,12 @@ I am available for any kind of job opportunity that suits my skills and interest
  <img src="https://i.ibb.co/px8zZrT/mongoDB.webp" alt="mongoDB" width="50"/>
 </div>
 
-<div style="display:flex; gap:10px;">
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagorcnits&show_icons=true)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagorcnits)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagorcnits&show_icons=true)  
+ 
+
 
 
  
