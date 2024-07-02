@@ -1,7 +1,7 @@
 ###
 
 
-![I ❤ Programming](https://github.com/sagorcnits/sagorcnits/assets/130352065/3033a8cd-2aaf-4777-8138-e6c06ec21d05)
+![Image Alt Text](https://i.ibb.co/k24415b/Github-Banner.gif)
 
 
 Hi there 👋, Hello, I'm Sagor Hossain
