@@ -1,7 +1,7 @@
 ###
 
 
-![Image Alt Text](https://i.ibb.co/k24415b/Github-Banner.gif)
+![Image Alt Text](https://i.ibb.co/S5tLpM5/cover-photo.png)
 
 
 Hi there 👋, Hello, I'm Sagor Hossain
