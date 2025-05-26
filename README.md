@@ -5,7 +5,7 @@
 
 
 Hi there 👋, Hello, I'm Sagor Hossain
-#### I am a Junior Web Developer.
+#### I am a MERN stack Web Developer.
 My name is Sagor Hossain. I am a professional and enthusiastic programmer in my daily life.
 I'm a passionate MERN stack developer with a strong background in creating dynamic and efficient web applications.
 My core skill is based on JavaScript and I love to do most of the things using JavaScript. 
