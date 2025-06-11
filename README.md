@@ -47,7 +47,7 @@ I am available for any kind of job opportunity that suits my skills and interest
 ---
 ![](https://komarev.com/ghpvc/?username=sagorcnits&color=brightgreen)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 
  
