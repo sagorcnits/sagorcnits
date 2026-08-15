@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=720&lines=Md.+Sagor+Hossain;Co-Founder+%26+COO+at+Octarnal;Full+Stack+Developer" alt="Md. Sagor Hossain" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=720&lines=Md.+Sagor+Molla;Co-Founder+%26+COO+at+Octarnal;Full+Stack+Developer" alt="Md. Sagor Molla" />
 
 ### Building modern SaaS platforms, AI-powered solutions, and scalable digital products with clean architecture.
 
